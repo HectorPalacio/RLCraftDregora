@@ -1,0 +1,11 @@
+RLCraft_BasicCaveSpider,-2010,-2010,-2587,-2587
+RLCraft_UndergroundRuin1,-2013,-2004,-2590,-2581
+RLCraft_SmallUndergroundSkeleton,-1931,-1923,-2611,-2603
+RLCraft_SmallTown,-1859,-1788,-2686,-2611
+RLCraft_BasicZombie,-1892,-1892,-2733,-2733
+RLCraft_UndergroundRuin1,-1895,-1886,-2736,-2727
+RLCraft_DecentZombie,-1818,-1818,-2746,-2746
+RLCraft_UndergroundRuin2,-1820,-1813,-2751,-2741
+RLCraft_DecentCaveSpider,-1942,-1942,-2911,-2911
+RLCraft_UndergroundRuin3,-1945,-1937,-2917,-2909
+BigClockworkSite,-1939,-1904,-2945,-2900

@@ -1,0 +1,14 @@
+UndergroundTreeoid,-3112,-3086,-316,-293
+RLCraft_SmallUndergroundSkeleton,-3144,-3136,-461,-453
+UndergroundTreeoid,-3272,-3246,-436,-413
+DinosaurSkull,-3360,-3341,-497,-486
+P_Village2Story,-3454,-3448,-364,-351
+SeasonsGreenhouse,-3438,-3428,-340,-328
+VillageWoodMill,-3477,-3464,-346,-330
+P_VillageFarmhouse,-3482,-3470,-375,-363
+VillageMarketplace,-3459,-3445,-338,-324
+P_VillageLibrary,-3518,-3499,-346,-330
+RLCraft_Vineyard,-3514,-3486,-311,-291
+VillageLargeLibrary,-3539,-3519,-311,-292
+RLCraft_DecentSkeleton,-3527,-3527,-239,-239
+RLCraft_UndergroundRuin3,-3532,-3524,-241,-233

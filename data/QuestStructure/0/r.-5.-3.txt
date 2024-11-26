@@ -1,0 +1,17 @@
+ShrineSmallAir,-2569,-2561,-1972,-1964
+PeacefulCrypt,-2589,-2573,-2039,-2015
+RLCraft_PlainsCamp,-2601,-2555,-1767,-1728
+StonePlantMound,-2595,-2590,-1662,-1657
+StonePlantMound,-2602,-2597,-1577,-1572
+SmallWoodenCottage,-2613,-2602,-1560,-1552
+StoneLeafMound,-2636,-2627,-1740,-1733
+SmallWoodenCottage,-2661,-2653,-1658,-1647
+StonePlantMound1,-2656,-2650,-1585,-1579
+RLCraft_UndergroundFarm,-2706,-2664,-1650,-1607
+StoneBoulder,-2701,-2692,-1593,-1584
+RLCraft_UndergroundFarm,-2798,-2756,-1752,-1709
+StonePlantMound2,-2654,-2641,-1566,-1554
+StonePlantMound2,-2727,-2715,-1543,-1530
+StoneLeafMound,-2713,-2704,-1540,-1533
+StonePlantMound,-2825,-2820,-1556,-1551
+StoneBoulder,-2831,-2822,-1590,-1581

@@ -1,0 +1,5 @@
+DinosaurSkull,-4505,-4486,-2596,-2585
+RLCraft_DecentZombie,-4517,-4517,-2589,-2589
+RLCraft_UndergroundRuin2,-4522,-4512,-2594,-2587
+RLCraft_BasicWitch,-4119,-4119,-2954,-2954
+RLCraft_UndergroundRuin1,-4122,-4113,-2957,-2948

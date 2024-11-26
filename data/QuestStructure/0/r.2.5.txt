@@ -1,0 +1,9 @@
+MeteorSite,1334,1349,2752,2782
+MonolythUnholy,1143,1157,2658,2672
+RLCraft_BasicCaveSpider,1132,1132,2842,2842
+RLCraft_UndergroundRuin1,1126,1135,2836,2845
+RLCraft_DecentSpider,1095,1095,2679,2679
+RLCraft_UndergroundRuin3,1090,1098,2673,2681
+PeacefulCrypt,1028,1052,2761,2777
+RLCraft_BasicSkeleton,1458,1458,2718,2718
+RLCraft_UndergroundRuin1,1452,1461,2712,2721

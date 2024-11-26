@@ -1,0 +1,2 @@
+BlazeSpawnerCrystal,-3459,-3453,-2305,-2299
+DinosaurSkull,-3499,-3480,-2393,-2382

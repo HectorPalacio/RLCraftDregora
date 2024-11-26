@@ -1,0 +1,14 @@
+ForestBeacon,-874,-866,-1940,-1932
+StonePlantMound4,-866,-859,-1759,-1752
+StoneBoulder,-862,-853,-1814,-1805
+StonePlantMound1,-873,-867,-1919,-1913
+StoneLeafMound,-673,-664,-1566,-1559
+RLCraft_SmallUndergroundSkeleton,-611,-603,-1619,-1611
+RLCraft_SmallUndergroundSkeleton,-775,-767,-2050,-2042
+StonePlantMound,-891,-886,-2022,-2017
+StoneLeafMound,-850,-841,-1982,-1975
+StonePlantBoulder,-623,-613,-2028,-2018
+WoodWallRemains,-646,-618,-1993,-1985
+StoneLeafMound,-933,-926,-1977,-1968
+StonePlantMound3,-705,-694,-1961,-1952
+StonePlantMound4,-761,-754,-1939,-1932

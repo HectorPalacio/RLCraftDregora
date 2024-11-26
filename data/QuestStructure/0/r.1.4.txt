@@ -1,0 +1,11 @@
+PeacefulCrypt,906,922,2540,2564
+RLCraft_SmallUndergroundSkeleton,892,900,2539,2547
+RLCraft_BasicWitch,1020,1020,2325,2325
+RLCraft_UndergroundRuin1,1014,1023,2319,2328
+RLCraft_PlainsCamp,942,988,2284,2323
+DinosaurSkeleton,772,818,2359,2368
+RLCraft_LargeUndergroundTown,871,984,2221,2358
+ShrineSmallAir,692,700,2422,2430
+DinosaurSkull,685,696,2339,2358
+MeteorSite,841,856,2277,2307
+StonePlantBoulder,616,626,2543,2553

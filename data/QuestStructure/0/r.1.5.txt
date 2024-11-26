@@ -1,0 +1,13 @@
+WoodWallRemains,891,899,2853,2881
+PeacefulCrypt,872,888,2582,2606
+SmallAbandonedMine,881,906,2627,2642
+ThreeTowers,786,817,2730,2762
+P_VillageFarmhouse,779,791,2805,2817
+VillageMarketplace,760,774,2790,2804
+VillageTriplets,722,736,2790,2804
+VillageGuardTower,759,771,2820,2832
+RLCraft_BasicSkeleton,694,694,2632,2632
+RLCraft_UndergroundRuin1,691,700,2629,2638
+P_VillageHouse,699,710,2818,2827
+StoneBoulder,563,572,2621,2630
+ShrineSmallAir,566,574,2769,2777

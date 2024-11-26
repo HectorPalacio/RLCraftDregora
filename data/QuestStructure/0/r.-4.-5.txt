@@ -1,0 +1,10 @@
+RLCraft_DecentWitch,-2064,-2064,-2726,-2726
+RLCraft_UndergroundRuin2,-2069,-2062,-2731,-2721
+RLCraft_SmallUndergroundSkeleton,-2102,-2094,-2842,-2834
+RLCraft_DecentSkeleton,-2274,-2274,-2617,-2617
+RLCraft_UndergroundRuin2,-2279,-2269,-2619,-2612
+RLCraft_BasicWitch,-2339,-2339,-2846,-2846
+RLCraft_UndergroundRuin1,-2342,-2333,-2852,-2843
+RLCraft_SmallUndergroundSkeleton,-2371,-2363,-2958,-2950
+RLCraft_DecentWitch,-2383,-2383,-2607,-2607
+RLCraft_UndergroundRuin3,-2385,-2377,-2610,-2602

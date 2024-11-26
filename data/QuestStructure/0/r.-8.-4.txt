@@ -1,0 +1,13 @@
+RLCraft_DecentZombie,-4132,-4132,-2307,-2307
+RLCraft_UndergroundRuin3,-4135,-4127,-2309,-2301
+BrickHenge,-4252,-4236,-2068,-2052
+DesertWatchtower,-4284,-4274,-2312,-2302
+DesertBeacon,-4323,-4317,-2189,-2183
+RLCraft_4Towers,-4403,-4343,-2534,-2482
+StonePlantBoulder,-4389,-4379,-2056,-2046
+DesertHut,-4496,-4486,-2332,-2323
+DesertHut,-4494,-4484,-2527,-2518
+MysticalTree1,-4503,-4490,-2133,-2122
+RLCraft_SmallUndergroundSkeleton,-4434,-4426,-2072,-2064
+RLCraft_UndergroundFarm,-4613,-4571,-2257,-2214
+CorruptedEnderTree,-4598,-4587,-2059,-2046

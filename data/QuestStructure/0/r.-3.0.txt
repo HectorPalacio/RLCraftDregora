@@ -1,0 +1,6 @@
+RLCraft_SmallUndergroundSkeleton,-1985,-1977,-134,-126
+RLCraft_DecentSpider,-1983,-1983,-19,-19
+RLCraft_UndergroundRuin3,-1988,-1980,-21,-13
+RLCraft_DecentSpider,-1897,-1897,-127,-127
+RLCraft_UndergroundRuin2,-1899,-1892,-132,-122
+ShrineSmallAir,-1851,-1843,-20,-12

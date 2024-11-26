@@ -1,0 +1,17 @@
+StoneBoulder,-2721,-2712,-665,-656
+StonePlantMound1,-2777,-2771,-658,-652
+RLCraft_SmallUndergroundSkeleton,-2670,-2662,-1022,-1014
+StonePlantMound1,-2632,-2626,-878,-872
+RLCraft_DecentSpider,-2585,-2585,-936,-936
+RLCraft_UndergroundRuin3,-2588,-2580,-938,-930
+DinosaurSkeleton,-3037,-2991,-742,-733
+RLCraft_SmallUndergroundSkeleton,-2935,-2927,-752,-744
+RLCraft_DecentZombie,-3053,-3053,-774,-774
+RLCraft_UndergroundRuin3,-3055,-3047,-777,-769
+StoneLeafMound,-2852,-2843,-760,-753
+WoodWallRemains,-2675,-2667,-905,-877
+RLCraft_SmallUndergroundSkeleton,-2673,-2665,-744,-736
+StonePlantMound2,-2708,-2696,-873,-860
+StonePlantMound1,-2702,-2696,-809,-803
+RLCraft_DecentSpider,-2848,-2848,-911,-911
+RLCraft_UndergroundRuin3,-2853,-2845,-913,-905

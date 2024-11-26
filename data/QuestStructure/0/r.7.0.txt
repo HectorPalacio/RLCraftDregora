@@ -1,0 +1,4 @@
+StoneLeafMound,3943,3950,352,361
+RLCraft_DecentSpider,3998,3998,353,353
+RLCraft_UndergroundRuin2,3996,4003,348,358
+StonePlantMound1,4064,4070,266,272

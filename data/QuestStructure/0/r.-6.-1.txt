@@ -1,0 +1,13 @@
+StoneBoulder,-3184,-3175,-551,-542
+StonePlantBoulder,-3132,-3122,-790,-780
+RLCraft_DecentWitch,-3315,-3315,-768,-768
+RLCraft_UndergroundRuin3,-3318,-3310,-770,-762
+ShrineSmallAir,-3288,-3280,-956,-948
+SmallWoodenCottage1,-3262,-3251,-893,-887
+StonePlantMound4,-3312,-3305,-948,-941
+StonePlantMound4,-3254,-3247,-986,-979
+ThreeTowers,-3347,-3316,-1006,-974
+VillageTriplets,-3347,-3333,-968,-954
+RLCraft_SmallUndergroundSkeleton,-3330,-3322,-812,-804
+RLCraft_DecentSkeleton,-3384,-3384,-772,-772
+RLCraft_UndergroundRuin2,-3389,-3379,-774,-767

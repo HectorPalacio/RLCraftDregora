@@ -1,0 +1,6 @@
+P_SmallShip,3223,3229,-475,-455
+P_Village2Story,3321,3334,-234,-228
+VillageWoodMill,3350,3366,-228,-215
+RLCraft_DecentCaveSpider,3337,3337,-206,-206
+RLCraft_UndergroundRuin2,3332,3339,-211,-201
+VillageForgeLarge,3380,3392,-250,-234

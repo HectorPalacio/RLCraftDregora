@@ -1,0 +1,7 @@
+MeteorSite,2781,2811,-2440,-2425
+RLCraft_DecentWitch,2794,2794,-2372,-2372
+RLCraft_UndergroundRuin3,2791,2799,-2378,-2370
+WoodWallRemains,2772,2780,-2476,-2448
+RLCraft_SmallUndergroundSkeleton,2748,2756,-2374,-2366
+SmallWoodenCottage1,2734,2745,-2467,-2461
+RLCraft_SmallUndergroundSkeleton,2649,2657,-2317,-2309

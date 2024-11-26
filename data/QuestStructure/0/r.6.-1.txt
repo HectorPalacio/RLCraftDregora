@@ -1,0 +1,2 @@
+VillageForgeLarge,3142,3154,-698,-682
+ShrineSmallWater,3254,3262,-569,-561

@@ -1,0 +1,15 @@
+RLCraft_SmallUndergroundSkeleton,-1135,-1127,-1265,-1257
+StonePlantMound3,-1074,-1065,-1272,-1261
+StonePlantMound1,-1148,-1142,-1315,-1309
+OldWatchtower,-1122,-1110,-1323,-1310
+RLCraft_DecentWitch,-1127,-1127,-1338,-1338
+RLCraft_UndergroundRuin3,-1132,-1124,-1340,-1332
+StoneBoulder,-1063,-1054,-1333,-1324
+StonePlantMound,-1161,-1156,-1386,-1381
+ClayWaterMound1,-1248,-1238,-1397,-1386
+StoneLeafMound,-1118,-1111,-1395,-1386
+DinosaurSkull,-1105,-1086,-1419,-1408
+RLCraft_SmallUndergroundSkeleton,-1330,-1322,-1447,-1439
+StonePlantMound4,-1127,-1120,-1426,-1419
+StonePlantMound3,-1115,-1104,-1487,-1478
+StonePlantMound4,-1045,-1038,-1295,-1288

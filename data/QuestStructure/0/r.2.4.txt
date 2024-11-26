@@ -1,0 +1,11 @@
+RLCraft_UndergroundFarm,1398,1441,2454,2496
+DinosaurSkeleton,1346,1392,2441,2450
+RLCraft_DecentSkeleton,1256,1256,2411,2411
+RLCraft_UndergroundRuin3,1253,1261,2409,2417
+RLCraft_DecentSkeleton,1360,1360,2362,2362
+RLCraft_UndergroundRuin2,1358,1365,2357,2367
+RLCraft_SmallTown,1309,1380,2362,2437
+RLCraft_DecentSkeleton,1088,1088,2321,2321
+RLCraft_UndergroundRuin3,1083,1091,2319,2327
+RLCraft_DecentWitch,1068,1068,2309,2309
+RLCraft_UndergroundRuin2,1063,1073,2307,2314

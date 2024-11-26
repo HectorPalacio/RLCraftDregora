@@ -1,0 +1,16 @@
+StonePlantMound1,-2070,-2064,-2088,-2082
+StoneBoulder,-2109,-2100,-2142,-2133
+StonePlantMound4,-2151,-2144,-2087,-2080
+StoneLeafMound,-2266,-2257,-2119,-2112
+RLCraft_UndergroundFarm,-2266,-2224,-2136,-2093
+SmallAbandonedMine,-2242,-2217,-2269,-2254
+RLCraft_DecentSkeleton,-2226,-2226,-2411,-2411
+RLCraft_UndergroundRuin2,-2231,-2221,-2413,-2406
+ClayWaterMound1,-2265,-2255,-2327,-2316
+StonePlantMound1,-2263,-2257,-2365,-2359
+StoneLeafMound,-2288,-2279,-2129,-2122
+StonePlantMound4,-2298,-2291,-2204,-2197
+StonePlantMound4,-2322,-2315,-2136,-2129
+RLCraft_BasicSkeleton,-2383,-2383,-2149,-2149
+RLCraft_UndergroundRuin1,-2389,-2380,-2152,-2143
+StonePlantMound2,-2478,-2465,-2154,-2142

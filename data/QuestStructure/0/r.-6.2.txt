@@ -1,0 +1,7 @@
+P_WitchDungeon,-3149,-3115,1070,1087
+RLCraft_BasicSpider,-3391,-3391,1210,1210
+RLCraft_UndergroundRuin1,-3394,-3385,1207,1216
+DinosaurSkull,-3221,-3210,1191,1210
+P_WitchDungeon,-3554,-3537,1234,1268
+SmallOutpost,-3155,-3125,1252,1274
+StonePlantMound2,-3223,-3210,1277,1289

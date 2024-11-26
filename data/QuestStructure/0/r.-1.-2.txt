@@ -1,0 +1,6 @@
+StonePlantMound1,-988,-982,-1197,-1191
+StonePlantMound2,-992,-980,-1479,-1466
+StonePlantBoulder,-993,-983,-1358,-1348
+StonePlantBoulder,-988,-978,-1482,-1472
+StonePlantMound4,-976,-969,-1435,-1428
+DinosaurSkull,-637,-618,-1532,-1521

@@ -1,0 +1,13 @@
+RLCraft_DecentWitch,-1550,-1550,2149,2149
+RLCraft_UndergroundRuin2,-1555,-1545,2144,2151
+RLCraft_BasicSpider,-1586,-1586,2186,2186
+RLCraft_UndergroundRuin1,-1592,-1583,2180,2189
+SmallClockworkSite,-1589,-1567,2126,2145
+SeasonsGreenhouse,-1651,-1639,2367,2377
+P_VillageHouse,-1662,-1651,2390,2399
+VillageWoodMill,-1674,-1658,2362,2375
+P_VillageInn,-1656,-1645,2413,2422
+RLCraft_Vineyard,-1682,-1662,2429,2457
+P_VillageFarmhouse,-1709,-1697,2390,2402
+SeasonsGreenhouse,-1700,-1690,2411,2423
+VillageTriplets,-1705,-1691,2439,2453

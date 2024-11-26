@@ -1,0 +1,8 @@
+StonePlantMound3,4109,4118,254,265
+StonePlantMound3,4183,4194,151,160
+StonePlantMound4,4200,4207,176,183
+StonePlantMound,4166,4171,113,118
+StoneLeafMound,4101,4110,65,72
+StonePlantMound3,4199,4210,45,54
+StonePlantMound2,4283,4296,180,192
+P_AncientTeleporter,4303,4338,270,303
